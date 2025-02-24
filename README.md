@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kameron, an <a href="www.linkedin.com/in/kameron-hughes-2017"> Aspiring IT Support Specialist</a>☺</h1>
+<h1>Hi, I'm Kameron, an <a href="www.linkedin.com/in/kameron-hughes-2017"> Aspiring IT Support Specialist</a😃</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
