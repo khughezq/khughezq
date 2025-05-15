@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kameron, and Welcome to my <a href="www.linkedin.com/in/khughes99">TED Talk</a>😊</h1>
+<h1>Hi, I'm Kameron, and welcome to my <a href="www.linkedin.com/in/khughes99">TED Talk</a>😊</h1>
 
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
